@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "edUNIYurcm2OkAvADo870u1fKYtORIRFGU0jAl3z8u97xCjoJ1+6UMmQfqAJdOZ0HVtdjAD2a2MNjfpfMg/pWA==",
+  "success": true,
+  "projectFilePath": "/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/ATM2Console.csproj",
+  "expectedPackageFiles": [
+    "/Users/hp/.nuget/packages/consoletables/2.5.0/consoletables.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

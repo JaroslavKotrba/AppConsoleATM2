@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ConsoleTables/2.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/ConsoleTables.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/ConsoleTables.dll": {
+            "related": ".pdb"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleTables/2.5.0": {
+      "sha512": "lfXLGH1coDInONveyIW5ufJWT/P5KbMRRV0cbR7CBnoZLNLZeTY51QUrAmtsX+gIWj7xlY9FSmg1sBYhXMmuuw==",
+      "type": "package",
+      "path": "consoletables/2.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Readme.md",
+        "consoletables.2.5.0.nupkg.sha512",
+        "consoletables.nuspec",
+        "icon.png",
+        "lib/netstandard2.1/ConsoleTables.dll",
+        "lib/netstandard2.1/ConsoleTables.pdb"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ConsoleTables >= 2.5.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/hp/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/ATM2Console.csproj",
+      "projectName": "ATM2Console",
+      "projectPath": "/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/ATM2Console.csproj",
+      "packagesPath": "/Users/hp/.nuget/packages/",
+      "outputPath": "/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/hp/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "ConsoleTables": {
+            "target": "Package",
+            "version": "[2.5.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

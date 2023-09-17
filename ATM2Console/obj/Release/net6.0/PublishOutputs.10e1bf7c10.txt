@@ -1,0 +1,5 @@
+/Users/hp/Documents/BACKUP/ATM2Console
+/Users/hp/Documents/BACKUP/ATM2Console.dll
+/Users/hp/Documents/BACKUP/ATM2Console.deps.json
+/Users/hp/Documents/BACKUP/ATM2Console.runtimeconfig.json
+/Users/hp/Documents/BACKUP/ATM2Console.pdb

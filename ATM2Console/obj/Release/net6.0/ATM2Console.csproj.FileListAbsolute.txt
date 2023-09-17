@@ -1,0 +1,15 @@
+/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/bin/Release/net6.0/ATM2Console
+/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/bin/Release/net6.0/ATM2Console.deps.json
+/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/bin/Release/net6.0/ATM2Console.runtimeconfig.json
+/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/bin/Release/net6.0/ATM2Console.dll
+/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/bin/Release/net6.0/ATM2Console.pdb
+/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/obj/Release/net6.0/ATM2Console.csproj.AssemblyReference.cache
+/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/obj/Release/net6.0/ATM2Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/obj/Release/net6.0/ATM2Console.AssemblyInfoInputs.cache
+/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/obj/Release/net6.0/ATM2Console.AssemblyInfo.cs
+/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/obj/Release/net6.0/ATM2Console.csproj.CoreCompileInputs.cache
+/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/obj/Release/net6.0/ATM2Console.dll
+/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/obj/Release/net6.0/refint/ATM2Console.dll
+/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/obj/Release/net6.0/ATM2Console.pdb
+/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/obj/Release/net6.0/ATM2Console.genruntimeconfig.cache
+/Users/hp/Library/CloudStorage/OneDrive-Personal/Documents/DotNet/ATM2Console/ATM2Console/obj/Release/net6.0/ref/ATM2Console.dll
